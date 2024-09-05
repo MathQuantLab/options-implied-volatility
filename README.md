@@ -1,7 +1,3 @@
-Merci pour la précision ! Voici un README mis à jour en tenant compte du fait qu'il n'y a qu'un notebook dans le dépôt :
-
----
-
 # Options Implied Volatility
 
 ## Introduction
